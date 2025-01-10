@@ -18,6 +18,7 @@ Hello! You've found my corner on the web.
 <br>
 I'm Soda, an aspiring developer and designer.
 <br>
+<br>
 Currently, I'm diving into ***design***, ***research*** and tackling my fears with ***javascript***.
 <br>
 I'm excied to explore ***creative coding*** and see what I can create. 
