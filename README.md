@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Archive ㅡ ✶
+### archive ㅡ ✶
 
 Hello! You've found my corner on the web.
 <br>
